@@ -1,5 +1,5 @@
 /*
-  Station Meteo Pro - module pyranomètre
+  Station Meteo Pro - module detecteur d'orage
   avec : 
      - Arduino Uno
      - Module Grove
